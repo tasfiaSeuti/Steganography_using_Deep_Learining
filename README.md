@@ -1,7 +1,9 @@
 # Steganography_using_Deep_Learining
 
 ### Screenshots
+### Autoencoder
 ![index](https://user-images.githubusercontent.com/31209824/187096414-05487c7f-c39f-4c54-a148-dd9ed7452ce4.png)
+### training and validation loss
 ![Screenshot 2022-08-29 at 4 07 42 AM](https://user-images.githubusercontent.com/31209824/187096417-a52e4062-b3ed-4f32-b84f-c96fc1afb956.png)
 
 ### Originar vs Generated Images
